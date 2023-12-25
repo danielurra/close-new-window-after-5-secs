@@ -6,12 +6,10 @@ HTML elements can be connected to a function that gets called automatically when
 In this case the **button** element is connected to a function that gets invoked when the user clicks the button, see below:<br>
 ```html
 <!DOCTYPE html>
-<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Open new Window</title>
+    <script src="./script.js"></script>
 </head>
 
 <body>
