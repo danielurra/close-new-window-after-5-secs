@@ -2,9 +2,10 @@
 This exercise involves basic HTML and Javascript to make a new window to be automatically closed after 5 seconds.<br>
 <img width="874" alt="javascript-automatic-close-new-windows-v2" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/12f8e131-44cb-45e2-9cb5-252b0d5df59e"><br>
 
-## Grab the code - index.html
+## Elements and functions
 HTML elements can be connected to a function that gets called automatically when something happens to the HTML element.<br>
 In this case the **button** element is connected to a function that gets invoked when the user clicks the button, see below:<br>
+## index.html
 ```html
 <!DOCTYPE html>
 
