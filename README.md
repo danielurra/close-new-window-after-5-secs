@@ -46,6 +46,7 @@ function opNeWi(){
 Onclick event executes a function, that function can be defined either in the same **index.html** file or<br>
 in a separated file called e.g. **script.js** by using javascript programming language.<br>
 <img width="542" alt="test-onclick-event-function-01-v2" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/81b8673d-dec3-4d96-8808-7c6e0cd67592"><br>
+Immediately after you click the button you'll see the message appearing in the console, see image below:<br>
 <img width="355" alt="test-onclick-event-function-02" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/39031724-b314-4d13-8cc5-a8d3794f37ff"><br>
 
 
