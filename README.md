@@ -14,9 +14,9 @@ In this case the **button** element is connected to a function that gets invoked
 </head>
 
 <body>
-    <h1>Quieres ir a mi pagina ciscoar.com?</h1>
-    <p>Haz clic en el boton, la pagina cierra automaticamente a los 5 seg.</p>
-    <button onclick="opNeWi()">Ir a Ciscoar</button>
+    <h1>Do you wanna visit my website ciscoar.com?</h1>
+    <p>Click below button, the page will automatically close after 5 seconds</p>
+    <button onclick="opNeWi()">go visit Ciscoar</button>
 </body>
 
 </html>
