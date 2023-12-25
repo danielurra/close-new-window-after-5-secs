@@ -26,7 +26,13 @@ If you run above code as it is now, you'll get an error, because the referred fu
 <img width="559" alt="function-not-defined-error" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/614f86d5-42dd-45d3-9aac-bbd85c0188f4"><br>
 
 We'll write this function in a separate javascript file, see the following section.<br>
-## Grab the code - script.js
+## Javascript functions
+Below function make use of the **window.open** method to open a new web page, it accepts three arguments:<br>
+* website URL
+* Open in a new windows (default value)
+* Window size<br>
+  
+## script.js
 ```javascript
 function opNeWi(){
             let ciscoarUrl = 'https://www.ciscoar.com';
