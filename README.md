@@ -32,4 +32,8 @@ basic HTML, JS, how to close new window after 5 secs
 
 </html>
 ```
+## How to test the onclick event
+<img width="796" alt="test-onclick-event-function-01" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/0e237632-e060-40ad-b6d4-e3b772fe0620"><br>
+<img width="355" alt="test-onclick-event-function-02" src="https://github.com/danielurra/close-new-window-after-5-secs/assets/51704179/39031724-b314-4d13-8cc5-a8d3794f37ff"><br>
+
 
