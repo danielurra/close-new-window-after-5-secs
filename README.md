@@ -27,7 +27,6 @@ We'll write this function in a separate javascript file, see the following secti
 ## Grab the code - script.js
 ```javascript
 function opNeWi(){
-            // console.log("Onclick event is working");
             let ciscoarUrl = 'https://www.ciscoar.com';
             let opNeWi = window.open(ciscoarUrl, "", "width=800, height=400");
             setTimeout(() => {
