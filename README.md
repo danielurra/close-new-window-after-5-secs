@@ -22,6 +22,8 @@ In this case the **button** element is connected to a function that gets invoked
 
 </html>
 ```
+If you run above code, you'll get an error, because the referred function is not being defined, we'll write this function<br>
+in a separate javascript file, see the following section.<br>
 ## Grab the code - script.js
 ```javascript
 function opNeWi(){
