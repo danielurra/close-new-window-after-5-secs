@@ -21,6 +21,8 @@ basic HTML, JS, how to close new window after 5 secs
 </html>
 ```
 ## Grab the code - script.js
+HTML elements can be connected to a function that gets called automatically when something happens to the HTML element.<br>
+In this case the **button** element is connected to a function that gets invoked when the user clicks the button, see below:<br>
 ```javascript
 function opNeWi(){
             // console.log("Onclick event is working");
