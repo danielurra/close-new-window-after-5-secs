@@ -43,8 +43,8 @@ function opNeWi(){
         }
 ```
 ## How to test the onclick event
-The **onclick** event executes a function, that function can be defined either in the same **index.html** file or<br>
-in a separated file called e.g. **script.js** by using javascript programming language.<br>
+The **onclick** event executes a function, that function can be defined either in the same **index.html** file<br>
+by using the `<script></script>` tags or in a separated file called e.g. **script.js** by using javascript programming language.<br>
 ```javascript
 function opNeWi() {
     console.log("Onclick event is working");
