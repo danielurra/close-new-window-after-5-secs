@@ -4,5 +4,5 @@ function opNeWi(){
     let opNeWi = window.open(ciscoarUrl, "", "width=800, height=400");
     setTimeout(() => {
         opNeWi.close();
-    }, 5000);   
+    }, 6000);   
 }
