@@ -27,7 +27,7 @@ If you run above code as it is now, you'll get an error, because the referred fu
 
 We'll write this function in a separate javascript file, see the following section.<br>
 ## Javascript function
-Below function make use of the **window.open()** method to open a new web page, it accepts three arguments:<br>
+Below function make use of the **window.open()** pre-defined `window method` to open a new web page, it accepts three arguments:<br>
 * website URL
 * Open in a new windows (default value)
 * Window size<br>
